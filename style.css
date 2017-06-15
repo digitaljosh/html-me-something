@@ -1,0 +1,28 @@
+#tagline {
+
+    background-color: #EEE;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 1300px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 10em;
+
+}
+
+p #tagline-text {
+
+    
+    color: #000;
+    vertical-align: middle;
+
+}
+
+img #logo {
+    margin-left: auto;
+    margin-right: auto;
+
+}
