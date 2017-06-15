@@ -1,28 +1,130 @@
-#tagline {
 
-    background-color: #EEE;
-    margin-left: auto;
-    margin-right: auto;
-    height: 100px;
-    width: 1300px;
+#logo-header {
+    background-color: black;
+    height: 15px;
+    width: 1335px;
+
+}
+
+#logo {
+    position: absolute;
+    top: 0; bottom:0; left: 0; right:0;
+    margin: auto;
+
+}
+
+#tagline-box {
+    background-color: black;
+    height: 650px;
+    width: 1335px;
+    margin-top:39em;
     text-align: center;
-    vertical-align: middle;
+    padding-top: 50px;  
+
+}
+
+span {
+    color: #FFFFF0;
     font-family: sans-serif;
     font-weight: bold;
     font-size: 10em;
 
-}
+}  
 
-p #tagline-text {
-
-    
-    color: #000;
-    vertical-align: middle;
-
-}
-
-img #logo {
+#baba-bowie {
+    width: 300px;
+    height: 300px;
+    margin-top: 9em;
+    display: block;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto; 
+}
 
+
+#paragraph-one-box {
+    text-align: center;
+    margin-top: .9em;
+}
+
+#first-paragraph {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+}
+
+#paragraph-two-box {
+    background-color: black;
+    height: 440px;
+    width: 1335px;
+    text-align: center;
+    padding-top: .2em;
+    
+
+}
+
+#second-paragraph {
+    font-family: 'Franklin Gothic Medium';
+    color: white;
+    font-size: 3em;
+}
+
+.kit-images {
+    background-color: black;
+    padding-bottom: 30px;
+
+
+
+}
+
+#kit-top-view {
+    height: 350px;
+    width: 500px;
+    border: 2px solid grey;
+    
+}
+
+#kit-bottom-view {
+    height: 350px;
+    width: 500x;
+    border: 2px solid grey;
+
+}
+
+#kit-front-angle {
+    height: 350px;
+    width: 425x;
+    border: 2px solid grey;
+
+}
+
+#kit-contents {
+    height: 350px;
+    width: 425x;
+    border: 2px solid grey;
+
+
+}
+
+#list {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+#footer-box {
+    background-color: black;
+}
+
+#contact {
+    color: white;
+
+}
+
+#copyright {
+    color: white;
+}
+
+#availability {
+    font-size: 30px;
 }
